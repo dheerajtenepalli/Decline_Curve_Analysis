@@ -1,0 +1,7 @@
+pandas
+numpy==1.15.4
+sklearn
+matplotlib
+scipy==1.2.1
+pytest
+pytest-cov

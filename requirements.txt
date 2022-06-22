@@ -1,5 +1,5 @@
 pandas
-numpy==1.15.4
+numpy==1.22.0
 sklearn
 matplotlib
 scipy==1.2.1
